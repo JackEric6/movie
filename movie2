@@ -40,19 +40,6 @@
             }
         },
         {
-            "key": "玩偶",
-            "name": "👽玩偶哥哥┃4K弹幕",
-            "type": 3,
-            "api": "csp_WoGGGuard",
-            "timeout": 30,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
-            }
-        },
-        {
             "key": "YGP",
             "name": "🚀叨观荐影┃预告片",
             "type": 3,

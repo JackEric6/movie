@@ -478,7 +478,7 @@
         },
         {
             "key": "Bili",
-            "name": "🅱哔哔合集┃弹幕",
+            "name": "🅱哔哔┃弹幕",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {

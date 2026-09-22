@@ -1,0 +1,16 @@
+{
+  "sites": [
+    {
+      "key": "xgzy",
+      "name": "西瓜资源",
+      "type": 1,
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 20,
+      "icon": "https://xgzy.tv/template/xiguav1/assets/images/favicon.png"
+    }
+  ]
+}

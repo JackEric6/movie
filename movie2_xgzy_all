@@ -52,7 +52,7 @@
       "key": "wujin",
       "name": "无尽资源站",
       "type": 1,
-      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.wujinapi.me%2Fapi.php%2Fprovide%2Fvod%2F",
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.wujinapi.me%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fwjm3u8%2F",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,

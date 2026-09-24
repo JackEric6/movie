@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "xgzy",
-      "name": "西瓜资源",
+      "name": "西瓜",
       "type": 1,
       "api": "http://127.0.0.1:9978/xgzy?source=https%3A%2F%2Fcaiji.xgzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fxiguam3u8%2F",
       "searchable": 1,
@@ -14,7 +14,7 @@
     },
     {
       "key": "360zy",
-      "name": "360资源",
+      "name": "360",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2F360zyzz.com%2Fapi.php%2Fprovide%2Fvod",
       "searchable": 1,
@@ -26,7 +26,7 @@
     },
     {
       "key": "jisu",
-      "name": "极速资源",
+      "name": "极速",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fjszyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fjsm3u8%2F",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "lzi",
-      "name": "量子采集站",
+      "name": "量子",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Flzm3u8%2F",
       "searchable": 1,
@@ -50,7 +50,7 @@
     },
     {
       "key": "shandian",
-      "name": "闪电资源网",
+      "name": "闪电",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fsdzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fsdm3u8%2F",
       "searchable": 1,
@@ -58,11 +58,14 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 25,
-      "icon": "https://shandianzy.com/favicon.ico"
+      "icon": "https://shandianzy.com/favicon.ico",
+      "backupApi": [
+        "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/"
+      ]
     },
     {
       "key": "yhzy",
-      "name": "樱花资源",
+      "name": "樱花",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fm3u8.apiyhzy.com%2Fapi.php%2Fprovide%2Fvod%2Fat%2Fjson%2F",
       "searchable": 1,
@@ -74,7 +77,7 @@
     },
     {
       "key": "ffzy",
-      "name": "非凡采集站",
+      "name": "非凡",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.ffzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fffm3u8%2F",
       "searchable": 1,
@@ -86,7 +89,7 @@
     },
     {
       "key": "sony",
-      "name": "索尼采集站",
+      "name": "索尼",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fsuoniapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fsnm3u8%2F",
       "searchable": 1,
@@ -98,7 +101,7 @@
     },
     {
       "key": "hongniu",
-      "name": "红牛资源",
+      "name": "红牛",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fwww.hongniuzy2.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fhnm3u8%2F",
       "searchable": 1,
@@ -110,7 +113,7 @@
     },
     {
       "key": "wujin",
-      "name": "无尽资源站",
+      "name": "无尽",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.wujinapi.me%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fwjm3u8%2F",
       "searchable": 1,
@@ -122,7 +125,7 @@
     },
     {
       "key": "yaya",
-      "name": "鸭鸭资源",
+      "name": "鸭鸭",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcj.yayazy.net%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fyym3u8%2F",
       "searchable": 1,
@@ -134,7 +137,7 @@
     },
     {
       "key": "niuniu",
-      "name": "牛牛资源",
+      "name": "牛牛",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.niuniuzy.me%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -146,7 +149,7 @@
     },
     {
       "key": "jinying",
-      "name": "金鹰资源",
+      "name": "金鹰",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fjyzyapi.com%2Fprovide%2Fvod%2Ffrom%2Fjinyingm3u8%2F",
       "searchable": 1,
@@ -158,7 +161,7 @@
     },
     {
       "key": "guangsu",
-      "name": "光速资源站",
+      "name": "光速",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.guangsuapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fgsm3u8%2F",
       "searchable": 1,
@@ -170,7 +173,7 @@
     },
     {
       "key": "huya",
-      "name": "虎牙资源采集网",
+      "name": "虎牙",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fwww.huyaapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fhym3u8%2F",
       "searchable": 1,
@@ -182,7 +185,7 @@
     },
     {
       "key": "juliang",
-      "name": "巨量资源",
+      "name": "巨量",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.juliang.live%2Fapi%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -194,7 +197,7 @@
     },
     {
       "key": "iqiyi",
-      "name": "爱奇艺资源",
+      "name": "爱奇艺",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fiqiyizyapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -206,7 +209,7 @@
     },
     {
       "key": "maoyan",
-      "name": "猫眼资源",
+      "name": "猫眼",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.maoyanapi.top%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fmym3u8%2Fat%2Fjson%2F",
       "searchable": 1,
@@ -218,7 +221,7 @@
     },
     {
       "key": "douban",
-      "name": "豆瓣资源",
+      "name": "豆瓣",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcaiji.dbzy5.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fdbm3u8%2Fat%2Fjosn%2F",
       "searchable": 1,
@@ -230,7 +233,7 @@
     },
     {
       "key": "okzy",
-      "name": "OK资源",
+      "name": "OK",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.okzyw.net%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fokm3u8%2F",
       "searchable": 1,
@@ -242,7 +245,7 @@
     },
     {
       "key": "bfzy",
-      "name": "暴风资源",
+      "name": "暴风",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fbfzyapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -254,7 +257,7 @@
     },
     {
       "key": "tyzy",
-      "name": "天涯资源",
+      "name": "天涯",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Ftyyszyapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -266,7 +269,7 @@
     },
     {
       "key": "zuida",
-      "name": "最大资源",
+      "name": "最大",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fzuidazy.co%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fzuidam3u8%2F",
       "searchable": 1,
@@ -278,7 +281,7 @@
     },
     {
       "key": "yzzy",
-      "name": "优质资源",
+      "name": "优质",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.yzzy-api.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -290,7 +293,7 @@
     },
     {
       "key": "kuaiche",
-      "name": "快车资源",
+      "name": "快车",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcaiji.kuaichezy.org%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -302,7 +305,7 @@
     },
     {
       "key": "haohua",
-      "name": "豪华资源",
+      "name": "豪华",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fhhzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fhhm3u8%2Fat%2Fjson%2F",
       "searchable": 1,
@@ -314,7 +317,7 @@
     },
     {
       "key": "xinlang",
-      "name": "新浪资源",
+      "name": "新浪",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.xinlangapi.com%2Fxinlangapi.php%2Fprovide%2Fvod%2Ffrom%2Fxlm3u8%2F",
       "searchable": 1,
@@ -322,11 +325,18 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 25,
-      "icon": "https://xinlangzy.com/favicon.ico"
+      "icon": "https://xinlangzy.com/favicon.ico",
+      "home": "https://xinlangzy.com/",
+      "help": "https://xinlangzy.com/index.php/help/index.html",
+      "backupDomain": [
+        "https://xinlangziyuan.com/",
+        "https://xinlangziyuan.net/",
+        "https://xinlangzy.net/"
+      ]
     },
     {
       "key": "wsyzy",
-      "name": "无水印资源",
+      "name": "无水印",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=http%3A%2F%2Fapi.wsyzy.net%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fwsym3u8%2F",
       "searchable": 1,
@@ -338,7 +348,7 @@
     },
     {
       "key": "dyttzy",
-      "name": "电影天堂资源",
+      "name": "电影天堂",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcaiji.dyttzyapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -350,7 +360,7 @@
     },
     {
       "key": "uuzy",
-      "name": "UU资源",
+      "name": "UU",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fsuoniapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fsnm3u8%2F",
       "searchable": 1,
@@ -362,7 +372,7 @@
     },
     {
       "key": "ukuzy",
-      "name": "U酷资源",
+      "name": "U酷",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.ukuapi88.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -374,7 +384,7 @@
     },
     {
       "key": "modu",
-      "name": "魔都资源",
+      "name": "魔都",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fwww.mdzyapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -386,7 +396,7 @@
     },
     {
       "key": "suboziyuan",
-      "name": "速播资源",
+      "name": "速播",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fsubocj.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -398,7 +408,7 @@
     },
     {
       "key": "bdzy",
-      "name": "百度资源",
+      "name": "百度",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.apibdzy.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -410,19 +420,29 @@
     },
     {
       "key": "yutu",
-      "name": "玉兔资源",
+      "name": "玉兔",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapiyutu.com%2Fapi.php%2Fprovide%2Fvod%2F",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "disabled": true,
+      "hidden": true,
       "timeout": 25,
-      "icon": "https://yutuzy.com/favicon.ico"
+      "icon": "https://yutuzy.com/favicon.ico",
+      "home": "https://yutuzy.com/",
+      "help": "https://helpyutu.com/",
+      "backupApi": [
+        "https://apiyutu.com/api.php/Seacms/vod/"
+      ],
+      "backupDomain": [
+        "https://yutuzy1.com/"
+      ]
     },
     {
       "key": "dzzy",
-      "name": "大众资源",
+      "name": "大众",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcdn.dzzyapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -434,7 +454,7 @@
     },
     {
       "key": "ryzy",
-      "name": "如意资源",
+      "name": "如意",
       "type": 1,
       "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcj.rycjapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
       "searchable": 1,
@@ -443,6 +463,88 @@
       "filterable": 1,
       "timeout": 25,
       "icon": "https://ryzy.tv/favicon.ico"
+    },
+    {
+      "key": "yparse",
+      "name": "云解析",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.yparse.com%2Fapi%2Fjson",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://yparse.com/favicon.ico",
+      "home": "https://yparse.com/",
+      "help": "https://yparse.com/help",
+      "backupApi": [
+        "https://api.yparse.com/api/m3u8/json"
+      ],
+      "backupDomain": [
+        "https://api.yparse.com/"
+      ]
+    },
+    {
+      "key": "mtzy0",
+      "name": "茅台",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcaiji.maotai999.vip%2Fapi.php%2Fprovide%2Fvod%2Fat%2Fjosn%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://mtzy0.com/template/default/images/logo.png",
+      "home": "https://mtzy0.com/",
+      "help": "https://mtzy0.com/help/index.html",
+      "backupApi": [
+        "https://caiji.maotai999.vip/api.php/provide/vod/from/mtm3u8/at/josn/"
+      ],
+      "backupDomain": [
+        "https://mtzy.me/",
+        "https://maotaiziyuan.cc/"
+      ]
+    },
+    {
+      "key": "m766",
+      "name": "黄道长",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fm766.com%2Fapi.php%2Fprovide%2Fvod%2Fat%2Fjson",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://m766.com/upload/site/20250729-1/deca59291b2f4f2f45a1d93fcc208489.jpg",
+      "home": "https://m766.com/",
+      "help": "https://help.m766.com/",
+      "backupApi": [
+        "https://m766.com/api.php/provide/vod/at/xml"
+      ],
+      "backupDomain": []
+    },
+    {
+      "key": "ikunzy",
+      "name": "ikun",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fikunzyapi.com%2Fapi.php%2Fprovide%2Fvod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://ikunzy.com/favicon.ico",
+      "home": "https://ikunzy.com/",
+      "help": "https://www.ikunzy.com/ikun/help.html",
+      "backupApi": [
+        "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"
+      ],
+      "backupDomain": [
+        "https://ikunzy.net/",
+        "https://ikunzy.org/",
+        "https://ikunzy.vip/",
+        "https://ikzy1.com/"
+      ]
     }
   ]
 }

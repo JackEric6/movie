@@ -335,6 +335,114 @@
       "filterable": 1,
       "timeout": 25,
       "icon": "https://www.wsyzy.cc/favicon.ico"
+    },
+    {
+      "key": "dyttzy",
+      "name": "电影天堂资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcaiji.dyttzyapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://dyttzy.tv/favicon.ico"
+    },
+    {
+      "key": "uuzy",
+      "name": "UU资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fsuoniapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fsnm3u8%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://uuzy.me/favicon.ico"
+    },
+    {
+      "key": "ukuzy",
+      "name": "U酷资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.ukuapi88.com%2Fapi.php%2Fprovide%2Fvod%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://ukuzy.com/favicon.ico"
+    },
+    {
+      "key": "modu",
+      "name": "魔都资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fwww.mdzyapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://moduzy.com/favicon.ico"
+    },
+    {
+      "key": "suboziyuan",
+      "name": "速播资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fsubocj.com%2Fapi.php%2Fprovide%2Fvod%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://www.suboziyuan.net/favicon.ico"
+    },
+    {
+      "key": "bdzy",
+      "name": "百度资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.apibdzy.com%2Fapi.php%2Fprovide%2Fvod%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://bdzy.tv/favicon.ico"
+    },
+    {
+      "key": "yutu",
+      "name": "玉兔资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapiyutu.com%2Fapi.php%2Fprovide%2Fvod%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://yutuzy.com/favicon.ico"
+    },
+    {
+      "key": "dzzy",
+      "name": "大众资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcdn.dzzyapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://dzzy.com/favicon.ico"
+    },
+    {
+      "key": "ryzy",
+      "name": "如意资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fcj.rycjapi.com%2Fapi.php%2Fprovide%2Fvod%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://ryzy.tv/favicon.ico"
     }
   ]
 }

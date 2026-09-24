@@ -1,16 +1,40 @@
 {
   "sites": [
     {
-      "key": "ffzy",
-      "name": "非凡采集站",
+      "key": "xgzy",
+      "name": "西瓜资源",
       "type": 1,
-      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.ffzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fffm3u8%2F",
+      "api": "http://127.0.0.1:9978/xgzy?source=https%3A%2F%2Fcaiji.xgzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fxiguam3u8%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 20,
+      "icon": "https://xgzy.tv/template/xiguav1/assets/images/favicon.png"
+    },
+    {
+      "key": "360zy",
+      "name": "360资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2F360zyzz.com%2Fapi.php%2Fprovide%2Fvod",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 25,
-      "icon": "https://ffzy5.tv/favicon.ico"
+      "icon": "https://360zy.com/favicon.ico"
+    },
+    {
+      "key": "jisu",
+      "name": "极速资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fjszyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fjsm3u8%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://jisuzy1.com/favicon.ico"
     },
     {
       "key": "lzi",
@@ -23,6 +47,42 @@
       "filterable": 1,
       "timeout": 25,
       "icon": "https://lzizy.net/favicon.ico"
+    },
+    {
+      "key": "shandian",
+      "name": "闪电资源网",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fsdzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fsdm3u8%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://shandianzy.com/favicon.ico"
+    },
+    {
+      "key": "yhzy",
+      "name": "樱花资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fm3u8.apiyhzy.com%2Fapi.php%2Fprovide%2Fvod%2Fat%2Fjson%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://yhzy.cc/favicon.ico"
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡采集站",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.ffzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fffm3u8%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://ffzy5.tv/favicon.ico"
     },
     {
       "key": "sony",
@@ -61,30 +121,6 @@
       "icon": "https://wujinzy.com/favicon.ico"
     },
     {
-      "key": "jisu",
-      "name": "极速资源",
-      "type": 1,
-      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fjszyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fjsm3u8%2F",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25,
-      "icon": "https://jisuzy1.com/favicon.ico"
-    },
-    {
-      "key": "xgzy",
-      "name": "西瓜资源",
-      "type": 1,
-      "api": "http://127.0.0.1:9978/xgzy?source=https%3A%2F%2Fcaiji.xgzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fxiguam3u8%2F",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 20,
-      "icon": "https://xgzy.tv/template/xiguav1/assets/images/favicon.png"
-    },
-    {
       "key": "yaya",
       "name": "鸭鸭资源",
       "type": 1,
@@ -109,18 +145,6 @@
       "icon": "https://niuniuzy.cc/images/favicon.png"
     },
     {
-      "key": "shandian",
-      "name": "闪电资源网",
-      "type": 1,
-      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fsdzyapi.com%2Fapi.php%2Fprovide%2Fvod%2Ffrom%2Fsdm3u8%2F",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25,
-      "icon": "https://shandianzy.com/favicon.ico"
-    },
-    {
       "key": "jinying",
       "name": "金鹰资源",
       "type": 1,
@@ -131,18 +155,6 @@
       "filterable": 1,
       "timeout": 25,
       "icon": "https://jinyingzy.com/favicon.ico"
-    },
-    {
-      "key": "yhzy",
-      "name": "樱花资源",
-      "type": 1,
-      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fm3u8.apiyhzy.com%2Fapi.php%2Fprovide%2Fvod%2Fat%2Fjson%2F",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25,
-      "icon": "https://yhzy.cc/favicon.ico"
     },
     {
       "key": "guangsu",
@@ -169,16 +181,160 @@
       "icon": "https://huyazy.com/favicon.ico"
     },
     {
-      "key": "360zy",
-      "name": "360资源",
+      "key": "juliang",
+      "name": "巨量资源",
       "type": 1,
-      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2F360zyzz.com%2Fapi.php%2Fprovide%2Fvod",
+      "api": "https://api.juliang.live/api/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 25,
-      "icon": "https://360zy.com/favicon.ico"
+      "icon": "https://juliang.app/favicon.ico"
+    },
+    {
+      "key": "iqiyi",
+      "name": "爱奇艺资源",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://iqiyizy.com/favicon.ico"
+    },
+    {
+      "key": "maoyan",
+      "name": "猫眼资源",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/from/mym3u8/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://www.maoyanzy.com/favicon.ico"
+    },
+    {
+      "key": "douban",
+      "name": "豆瓣资源",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://dbzy.tv/favicon.ico"
+    },
+    {
+      "key": "okzy",
+      "name": "OK资源",
+      "type": 1,
+      "api": "https://api.okzyw.net/api.php/provide/vod/from/okm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://www.zzzypro.com/favicon.ico"
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://bfzy2.tv/favicon.ico"
+    },
+    {
+      "key": "tyzy",
+      "name": "天涯资源",
+      "type": 1,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://tyyszy.com/favicon.ico"
+    },
+    {
+      "key": "zuida",
+      "name": "最大资源",
+      "type": 1,
+      "api": "https://zuidazy.co/api.php/provide/vod/from/zuidam3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://zuidazy.co/favicon.ico"
+    },
+    {
+      "key": "yzzy",
+      "name": "优质资源",
+      "type": 1,
+      "api": "http://127.0.0.1:9978/cms?source=https%3A%2F%2Fapi.yzzy-api.com%2Fapi.php%2Fprovide%2Fvod%2F",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://yzzy.tv/favicon.ico"
+    },
+    {
+      "key": "kuaiche",
+      "name": "快车资源",
+      "type": 1,
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://kuaichezy.com/favicon.ico"
+    },
+    {
+      "key": "haohua",
+      "name": "豪华资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://haohuazy.com/favicon.ico"
+    },
+    {
+      "key": "xinlang",
+      "name": "新浪资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://xinlangzy.com/favicon.ico"
+    },
+    {
+      "key": "wsyzy",
+      "name": "无水印资源",
+      "type": 1,
+      "api": "http://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25,
+      "icon": "https://www.wsyzy.cc/favicon.ico"
     }
   ]
 }

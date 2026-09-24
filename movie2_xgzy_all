@@ -46,7 +46,17 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 25,
-      "icon": "https://lzizy.net/favicon.ico"
+      "icon": "https://lzizy.net/favicon.ico",
+      "backupDomain": [
+        "https://lzizy1.com/",
+        "https://lzizy2.com/",
+        "https://lzizy3.com/",
+        "https://lzizy4.com/",
+        "https://lzizy5.com/",
+        "https://lzizy6.com/",
+        "https://lzizy7.com/",
+        "https://lzizy8.com/"
+      ]
     },
     {
       "key": "shandian",
@@ -229,7 +239,15 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 25,
-      "icon": "https://dbzy.tv/favicon.ico"
+      "icon": "https://dbzy.tv/favicon.ico",
+      "backupDomain": [
+        "https://dbzy1.com/",
+        "https://dbzy.tv/",
+        "https://doubanzy.net/",
+        "https://doubanzy.cc/",
+        "https://doubanziyuan.net/",
+        "https://doubanziyuan.com/"
+      ]
     },
     {
       "key": "okzy",
@@ -462,7 +480,16 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 25,
-      "icon": "https://ryzy.tv/favicon.ico"
+      "icon": "https://ryzy.tv/favicon.ico",
+      "backupApi": [
+        "https://cj.rytvapi.com/api.php/provide/vod/",
+        "https://bycj.rytvapi.com/api.php/provide/vod/",
+        "https://cj.rycjapi.com/api.php/provide/vod/from/ruyi/at/xml/",
+        "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/"
+      ],
+      "backupDomain": [
+        "https://ryzy.tv/"
+      ]
     },
     {
       "key": "yparse",
